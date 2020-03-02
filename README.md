@@ -14,7 +14,7 @@ Michael Preminger
 
 The repository tests two types of query expansion:
 
-- expand_wn(): based om wordnet synomyms (using the NLTK package)
-- expand_w2v() based on embeddings: word2vec models (using the gensim package and downloaded embeddings). This takes about 15-20 minutes of file downloading and model loading first time a model is used, but repeated tests can be done on a loaded model. 
+- (function **expand_wn**()): based om wordnet synomyms (using the NLTK package)
+- (function **expand_w2v**()) based on embeddings: word2vec models (using the gensim package and downloaded embeddings). This requires 3.5GB of free space, and  takes about 15-20 minutes of file downloading and model loading first time a model is used, but repeated tests can be done on a loaded model. 
 
 
