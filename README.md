@@ -8,7 +8,7 @@ Michael Preminger
 
 - pyenchant - a dictionary to consult for finding "real" English words, 
 - wget for dowloading model files from the internet
-- bz2 for decompressing compressed file
+- bz2 for decompressing compressed file (probably available on system)
 - shutil for saving decompressed files.
 - gensim for word2vec models
 
