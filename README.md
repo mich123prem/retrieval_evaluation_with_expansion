@@ -1,6 +1,6 @@
 # Retrieval evaluation with query expansion
 
-
+Michael Preminger
 
 ### Built on the retrieval_evaluation repository. Consult the [readme](https://github.com/michaelprem/retrieval_evaluation/blob/master/README.md) of that repository for prerequisites.
 
